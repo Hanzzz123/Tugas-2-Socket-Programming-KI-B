@@ -2,7 +2,7 @@
 
 | Nama                       | NRP        |          Task                                                                                                                                   |
 | ---------------------      | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------     |
-| Muhammad Farhan Dzulfikar  | 5025221291 |  Melakukan Implementasi DES, Server, dan Client (semuanya)                                                                                      |
+| Muhammad Farhan Dzulfikar  | 5025221011 |  Melakukan Implementasi DES, Server, dan Client (semuanya)                                                                                      |
                                                                                                            
 
 
